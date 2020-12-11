@@ -1,0 +1,192 @@
+@media screen and (max-width: 991px ) {
+    .box {
+        margin: 0;
+        text-align: center;
+    }
+    .pencet {
+        padding: 1em;
+        display: block;
+    }
+    .premium {
+      margin: 0;
+    }
+    .o {
+      display: none!important;
+    }
+  }
+html {
+    scroll-behavior: smooth;
+    font-family: "Circular Spotify Tx T Black";
+  }
+
+ul li {
+    margin: 0 1em;
+}
+.DM2 {
+  padding: 0.5em!important;
+  color: black ;
+  font-weight: 600 !important;
+}
+
+.DM2:hover {
+  
+  color: #2ecc71 !important;
+}
+.logo {
+  height: 45px;
+  width: 65px;
+}
+
+.box {
+    padding: 30px;        
+    margin: 2em 0;
+  }
+.box2 {
+    text-align: center;
+    padding: 30px;
+    margin: 10px 0;
+  }
+.img {
+    height: 60%;
+    width:90%;
+  }
+.cf1 {
+    
+    background: #ff4632;
+  }
+
+.p1 {
+    font-weight: bold;
+  }
+.p2 {
+    font-weight: bolder ;
+    font-size: 3.5em;
+  }
+.p3 {
+    font-weight: 600; 
+  }
+.p4 {
+    font-size: 0.7em;
+    font-weight: bold;
+  }
+.kanan {
+    align-items: center;
+    margin: auto 0;
+  }
+.pencet {
+  font-weight: bold;
+  border-radius: 2em ;
+  padding: 1em 2.5em;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  }
+  .pencet:hover {
+  font-weight: bold;
+  color: black;
+  background-color: white;
+  text-decoration: none;
+  }
+.bawah {
+    
+  padding: 30px;
+  margin: 10px 0;
+}
+.ini {
+  display: flex;
+  flex-direction: row;
+}
+.bawah-kosong {
+  background: white;
+ }
+.up {
+    color: black;
+ }
+.cf2 {
+  background: black;
+ }
+.p1-2 {
+  font-weight: 600;
+  font-size: 15px;
+  text-decoration: none;
+  color: #7f8c8d;
+}
+.p2-2 {
+  font-size: 15px;
+  text-decoration: none;
+  color: white;
+}
+.p2-2:hover {
+  text-decoration: none;
+  color: #2ecc71;
+}
+.bawah2 {
+  background: black;
+}
+.p1-3, .beda {
+  margin: 15px;
+  padding: 0px 4px;
+  font-size: 12px;
+  margin-left: 10px ;
+  color: #b4b4b4;
+}
+.p1-3:hover {
+  text-decoration: none;
+  color:#2ecc71; ;
+}
+footer {
+  border-top:1px solid gray;
+}
+/* premium */
+.premium {
+  margin: auto 0;
+  background-color: #a0c3d2;
+}
+/* --- */
+
+.gambar2 {
+  height: 160px;
+  width:160px;
+}
+
+.d {
+  margin: 0 2em;
+  border: 1px solid red;
+}
+.f {
+  background-color: #f8f8f8;
+}
+.a {
+  
+  padding: 40px;
+  background-color: white;
+}
+.g {
+  border-radius: 2px;
+  display: inline-block;
+  padding: 4px 10px;
+  color: white;
+  background-color: #2e77d0;
+}
+.h {
+  border-radius: 5px;
+  border: #2e77d0 solid 1px ;
+  color: #2e77d0;
+  padding: 4px 10px;
+}
+.mulai {
+  font-size: 17px;
+  font-weight: bold;
+  color: white;
+  display: block;
+  background-color:#2ecc71;
+  text-decoration: none!important;
+  padding: 10px;
+  border-radius: 2em;
+}
+.mulai:hover {
+  transform: scale(1.05);
+  color: white;
+  background-color:#2ed573;
+}
+/* container bawah */
